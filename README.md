@@ -1,0 +1,2 @@
+This project is part of a university course, and some of the code files were not authored by me. 
+Therefore, I am not including those files in this public repository to respect the guidelines of academic integrity.
